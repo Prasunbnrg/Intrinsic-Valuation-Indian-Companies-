@@ -1,0 +1,13 @@
+### Requirements ### 
+# I have only tested on the below version, other version may or may not work
+
+pandas == 0.24.2
+numpy == 1.16.2
+beautifulsoup4 == 4.7.1
+openpyxl == 2.6.1
+yahoo_fin == 0.8.6
+
+
+
+
+
